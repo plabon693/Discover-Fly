@@ -53,6 +53,8 @@ nav ul li a:hover, a.active{
 }
 .booking-form h3{
     margin: 10px 0px;
+    text-transform: uppercase;
+    text-align: center;
 }
 .booking-form  .input-group{
     margin: 10px 0;
